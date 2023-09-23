@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\SuperHero\SuperHero\bin\Debug\net7.0\SuperHero.exe
+C:\Users\usuario\source\repos\SuperHero\SuperHero\bin\Debug\net7.0\SuperHero.deps.json
+C:\Users\usuario\source\repos\SuperHero\SuperHero\bin\Debug\net7.0\SuperHero.runtimeconfig.json
+C:\Users\usuario\source\repos\SuperHero\SuperHero\bin\Debug\net7.0\SuperHero.dll
+C:\Users\usuario\source\repos\SuperHero\SuperHero\bin\Debug\net7.0\SuperHero.pdb
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.AssemblyInfo.cs
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.dll
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\refint\SuperHero.dll
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.pdb
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\SuperHero.genruntimeconfig.cache
+C:\Users\usuario\source\repos\SuperHero\SuperHero\obj\Debug\net7.0\ref\SuperHero.dll
